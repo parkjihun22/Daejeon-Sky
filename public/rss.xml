@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>대전 하늘채 루시에르</title>
     <link>https://intercs.co.kr/</link>
     <description>대전 하늘채 루시에르ㅣ☎️(대표)1533-8848ㅣ모델하우스ㅣ위치ㅣ청약ㅣ분양ㅣ분양가ㅣ공급정보ㅣ고객센터ㅣ방문예약</description>
     <language>ko-KR</language>
+    <lastBuildDate>Tue, 30 Sep 2025 14:00:00 +0900</lastBuildDate>
+    <ttl>60</ttl>
     <atom:link href="https://intercs.co.kr/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- 브랜드소개 -->
@@ -12,15 +15,15 @@
       <title>브랜드 소개</title>
       <link>https://intercs.co.kr/Brand/intro</link>
       <guid isPermaLink="true">https://intercs.co.kr/Brand/intro</guid>
-      <description><![CDATA[브랜드 철학과 가치를 담은 대전 하늘채 루시에르. 프리미엄 주거문화와 브랜드 스토리를 소개합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[코오롱글로벌 하늘채의 브랜드 철학과 가치, 대전 하늘채 루시에르의 스토리를 소개합니다.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>홍보 영상</title>
       <link>https://intercs.co.kr/Brand/video</link>
       <guid isPermaLink="true">https://intercs.co.kr/Brand/video</guid>
-      <description><![CDATA[대전 하늘채 루시에르의 입지, 설계, 커뮤니티, 생활 인프라를 영상으로 확인하세요.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[도심 최중심 입지, 설계·커뮤니티, 생활 인프라를 영상으로 확인하세요.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
     <!-- 사업개요 -->
@@ -28,54 +31,54 @@
       <title>사업안내</title>
       <link>https://intercs.co.kr/BusinessGuide/intro</link>
       <guid isPermaLink="true">https://intercs.co.kr/BusinessGuide/intro</guid>
-      <description><![CDATA[대전 하늘채 루시에르의 사업 개요와 세대 구성, 교통·생활 인프라를 안내합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[대전 중구 선화동 도심 최중심 998세대(전용 84·105·119㎡), 지하5~지상49층 6개 동 규모의 사업 개요를 안내합니다.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>분양일정</title>
       <link>https://intercs.co.kr/BusinessGuide/plan</link>
       <guid isPermaLink="true">https://intercs.co.kr/BusinessGuide/plan</guid>
-      <description><![CDATA[청약 접수·모델하우스 오픈·당첨자 발표·계약 등 분양일정을 확인하세요.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[모델하우스 개관, 특별공급·1순위 청약, 당첨자 발표, 계약 및 입주예정일까지 일정을 한눈에 확인하세요.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
-    <!-- 분양안내 -->
+    <!-- 분양안내 (메뉴 기준: 공급안내/모집공고안내/인지세납부안내) -->
     <item>
       <title>공급안내</title>
       <link>https://intercs.co.kr/SalesInfo/guide</link>
       <guid isPermaLink="true">https://intercs.co.kr/SalesInfo/guide</guid>
       <description><![CDATA[세대수·면적·공급조건 등 분양 공급 정보를 상세히 안내합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>정당계약안내문</title>
-      <link>https://intercs.co.kr/SalesInfo/SubscriptionGuide</link>
-      <guid isPermaLink="true">https://intercs.co.kr/SalesInfo/SubscriptionGuide</guid>
-      <description><![CDATA[정당계약 절차와 필요서류, 유의사항을 확인하세요.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>모집공고안내</title>
       <link>https://intercs.co.kr/SalesInfo/announcement</link>
       <guid isPermaLink="true">https://intercs.co.kr/SalesInfo/announcement</guid>
-      <description><![CDATA[공급규모, 자격요건, 청약 일정 등 공식 모집공고 정보를 제공합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[공급 규모, 자격 요건, 청약 일정 등 공식 모집공고 정보를 제공합니다.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>인지세납부안내</title>
+      <link>https://intercs.co.kr/SalesInfo/stampTax</link>
+      <guid isPermaLink="true">https://intercs.co.kr/SalesInfo/stampTax</guid>
+      <description><![CDATA[계약 체결 시 인지세 납부 대상, 금액, 납부 방법 및 유의사항을 안내합니다.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
-    <!-- 입지환경 -->
+    <!-- 입지환경 (프리미엄 슬러그는 의도대로 primium 유지) -->
     <item>
       <title>입지안내</title>
       <link>https://intercs.co.kr/LocationEnvironment/intro</link>
       <guid isPermaLink="true">https://intercs.co.kr/LocationEnvironment/intro</guid>
-      <description><![CDATA[서해선 안중역, 광역 교통망, 상업지구, 교육·공공시설을 갖춘 입지환경을 소개합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[대전역·서대전역 더블역세권, 1호선 중앙로역 생활권, 2호선 트램(예정) 수혜와 은행동·으능정이 문화거리·중앙시장 등 풍부한 인프라를 소개합니다.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>프리미엄</title>
       <link>https://intercs.co.kr/LocationEnvironment/primium</link>
       <guid isPermaLink="true">https://intercs.co.kr/LocationEnvironment/primium</guid>
-      <description><![CDATA[교통·교육·의료·쇼핑·자연 프리미엄을 모두 누리는 대전 하늘채 루시에르의 생활 가치.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[교통·교육·의료·쇼핑·자연 프리미엄을 모두 누리는 대전 하늘채 루시에르의 생활 가치를 확인하세요.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
     <!-- 단지안내 -->
@@ -83,82 +86,68 @@
       <title>단지 배치도</title>
       <link>https://intercs.co.kr/ComplexGuide/intro</link>
       <guid isPermaLink="true">https://intercs.co.kr/ComplexGuide/intro</guid>
-      <description><![CDATA[동별 배치, 조경, 커뮤니티 및 동선 설계를 확인하세요.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[동별 배치, 조경, 커뮤니티 및 보행·주차 동선 설계를 확인하세요.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>호수 배치도</title>
       <link>https://intercs.co.kr/ComplexGuide/detailintro</link>
       <guid isPermaLink="true">https://intercs.co.kr/ComplexGuide/detailintro</guid>
-      <description><![CDATA[세대별 호수 배치, 전망과 채광·프라이버시를 고려한 설계를 확인하세요.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[세대별 호수 배치와 전망, 일조, 프라이버시를 고려한 설계를 확인하세요.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>커뮤니티</title>
       <link>https://intercs.co.kr/ComplexGuide/community</link>
       <guid isPermaLink="true">https://intercs.co.kr/ComplexGuide/community</guid>
-      <description><![CDATA[피트니스, 독서실, 어린이집 등 생활 편의 커뮤니티 시설을 안내합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[피트니스·실내골프·사우나·무비살롱·게스트하우스·맘스라운지 등 프리미엄 커뮤니티 시설을 안내합니다.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
-    <!-- 세대안내 (메뉴 기준으로 수정 반영) -->
-    <item>
-      <title>59A</title>
-      <link>https://intercs.co.kr/FloorPlan/59A</link>
-      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/59A</guid>
-      <description><![CDATA[전용 59A 타입 평면과 공간 활용 아이디어를 소개합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
-    </item>
+    <!-- 세대안내 (메뉴 기준: 84A/84B/84C/E-모델하우스) -->
     <item>
       <title>84A</title>
+      <link>https://intercs.co.kr/FloorPlan/59A</link>
+      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/59A</guid>
+      <description><![CDATA[84A 타입 평면과 수납 특화, 동선 설계를 소개합니다.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>84B</title>
       <link>https://intercs.co.kr/FloorPlan/59B</link>
       <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/59B</guid>
-      <description><![CDATA[전용 84A 타입 평면과 공간 활용 아이디어를 소개합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[84B 타입 평면과 채광·통풍·거실 확장 포인트를 확인하세요.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>99A</title>
+      <title>84C</title>
       <link>https://intercs.co.kr/FloorPlan/84A</link>
       <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/84A</guid>
-      <description><![CDATA[전용 99A 타입 평면과 공간 활용 아이디어를 소개합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>114A</title>
-      <link>https://intercs.co.kr/FloorPlan/84B</link>
-      <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/84B</guid>
-      <description><![CDATA[전용 114A 타입 평면과 공간 활용 아이디어를 소개합니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[84C 타입 평면과 수납·팬트리·드레스룸 등 특화 설계를 확인하세요.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>E-모델하우스</title>
       <link>https://intercs.co.kr/FloorPlan/Emodel</link>
       <guid isPermaLink="true">https://intercs.co.kr/FloorPlan/Emodel</guid>
-      <description><![CDATA[VR 투어와 세대별 평면도를 온라인에서 확인할 수 있는 E-모델하우스.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[VR 투어와 타입별 평면·인테리어를 온라인에서 확인할 수 있는 E-모델하우스.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
-    <!-- 인테리어 -->
+    <!-- 인테리어 (메뉴 기준: 84A/84C) -->
     <item>
       <title>84A 인테리어</title>
       <link>https://intercs.co.kr/Interior/59A</link>
       <guid isPermaLink="true">https://intercs.co.kr/Interior/59A</guid>
-      <description><![CDATA[84A 타입 인테리어 디자인과 마감재, 옵션 스타일을 확인하세요.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[84A 타입 인테리어 디자인, 마감재, 옵션 스타일을 확인하세요.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>84D 인테리어</title>
+      <title>84C 인테리어</title>
       <link>https://intercs.co.kr/Interior/84A</link>
       <guid isPermaLink="true">https://intercs.co.kr/Interior/84A</guid>
-      <description><![CDATA[84D 타입 인테리어 디자인과 마감재, 옵션 스타일을 확인하세요.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>114A 인테리어</title>
-      <link>https://intercs.co.kr/Interior/84B</link>
-      <guid isPermaLink="true">https://intercs.co.kr/Interior/84B</guid>
-      <description><![CDATA[114A 타입 인테리어 디자인과 마감재, 옵션 스타일을 확인하세요.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <description><![CDATA[84C 타입 인테리어 디자인, 마감재, 옵션 스타일을 확인하세요.]]></description>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
     <!-- 홍보센터 -->
@@ -167,14 +156,14 @@
       <link>https://intercs.co.kr/Promotion/Press</link>
       <guid isPermaLink="true">https://intercs.co.kr/Promotion/Press</guid>
       <description><![CDATA[대전 하늘채 루시에르 관련 보도자료와 언론 기사를 모았습니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>관심고객등록</title>
       <link>https://intercs.co.kr/Promotion/Customer</link>
       <guid isPermaLink="true">https://intercs.co.kr/Promotion/Customer</guid>
       <description><![CDATA[관심고객 등록 시 모델하우스 일정과 청약 정보를 우선 안내해드립니다.]]></description>
-      <pubDate>Mon, 06 Sep 2025 14:00:00 +0900</pubDate>
+      <pubDate>Tue, 30 Sep 2025 14:00:00 +0900</pubDate>
     </item>
 
   </channel>
